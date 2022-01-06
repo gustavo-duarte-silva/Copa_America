@@ -4,4 +4,4 @@
 * Grafico de Quantidade de Titulos por Seleção(Times)
 * Grafico de total de Gols Por Ano da Copa
 
-## Link: https://share.streamlit.io/gustavo-duarte-silva/copa_america/main/main.py
+#### Link do app: https://share.streamlit.io/gustavo-duarte-silva/copa_america/main/main.py
